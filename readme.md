@@ -35,4 +35,4 @@
 	<li><strong>imagemin</strong></li>
 	<li><strong>newer</strong></li>
 	<li><strong>del</strong></li>		
-</ol>"# gulp-4-starter" 
+</ol>" 
