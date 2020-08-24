@@ -1,4 +1,4 @@
-g/node_modules/
+/node_modules/
 /dist/
 /.git/
 /app/css/
